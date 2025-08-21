@@ -1,0 +1,13 @@
+{
+  "name": "accsv-mono",
+  "version": "1.0.0",
+  "description": "ACCSV Parsers",
+  "private": true,
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
